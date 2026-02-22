@@ -4,7 +4,7 @@ public class BiologyTeacher extends Teacher {
    //Overrided the teach() from Teacher abstract class
    //hemanthbranch
 	//this is the testing code for abstraction concept
-
+   //hemanthline
 	@Override
 	public void teach() 
 	{
