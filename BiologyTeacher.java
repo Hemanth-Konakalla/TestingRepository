@@ -2,7 +2,7 @@ package com.java.standard.edition.abstraction;
 
 public class BiologyTeacher extends Teacher {
    //Overrided the teach() from Teacher abstract class
-   //newline added by hemanthbranch to test pull request
+   //added by hemanthbranch to test pull request
 	@Override
 	public void teach() 
 	{
